@@ -1,0 +1,215 @@
+{
+  "name": "Shin Manreal",
+  "profile_photo": "uploads/profile_photo.png",
+  "headline": "Recruiting Operations Leader Building Python Automation Tools",
+  "subheadline": "I combine 10+ years of talent acquisition experience with Python, AI, automation, and recruiting systems to build practical tools that improve hiring speed, data quality, and operational efficiency.",
+  "about": [
+    "I am a Talent Acquisition and Recruiting Operations Leader with 10+ years of experience building scalable hiring functions across healthcare, real estate, e-commerce, and startup environments.",
+    "I have filled 200+ roles, reduced average time-to-fill by up to 60%, improved quality of hire by 45%, and managed 60+ active requisitions across multiple business functions.",
+    "My technical focus is building Python-powered recruiting tools, workflow automations, AI screening systems, dashboards, ATS processes, and data-driven hiring operations."
+  ],
+  "contact": {
+    "email": "work.shinmanreal@gmail.com",
+    "phone": "+639625255694",
+    "location": "Quezon City, Philippines",
+    "github": "https://github.com/ShinManreal",
+    "linkedin": "https://linkedin.com/in/shinmanreal"
+  },
+  "highlights": [
+    "Filled 200+ positions across healthcare, real estate, e-commerce, and startup organizations.",
+    "Reduced average time-to-fill by up to 60%.",
+    "Improved quality of hire by 45%.",
+    "Filled 50+ critical roles within 1-3 weeks.",
+    "Managed 60+ active requisitions across multiple business functions.",
+    "Built HR and Talent Acquisition functions from scratch.",
+    "Led recruiting teams and KPI-driven performance systems.",
+    "Implemented ATS, automation, and scalable recruiting operations."
+  ],
+  "projects": [
+    {
+      "title": "AI Hiring Engine",
+      "description": "A Python and Streamlit recruiting platform designed to centralize candidate management, resume parsing, AI screening, interview script generation, and recruiting workflows.",
+      "tags": [
+        "Python",
+        "Streamlit",
+        "Supabase",
+        "AI Recruiting",
+        "Resume Parsing"
+      ]
+    },
+    {
+      "title": "Airtable to RecruitCRM Sync Tool",
+      "description": "A Python API integration that syncs candidate ratings, AI interview links, interview summaries, and custom fields between Airtable and RecruitCRM.",
+      "tags": [
+        "Python",
+        "REST API",
+        "Airtable",
+        "RecruitCRM",
+        "Automation"
+      ]
+    },
+    {
+      "title": "Recruiting Knowledge Base Generator",
+      "description": "A Python workflow that converts client recruiting data from Excel files into structured, GPT-readable knowledge for AI-powered hiring tools.",
+      "tags": [
+        "Python",
+        "Excel",
+        "OpenPyXL",
+        "Data Processing",
+        "AI Workflows"
+      ]
+    },
+    {
+      "title": "AI Interview Evaluation System",
+      "description": "A structured AI evaluation workflow that analyzes resumes, client requirements, and interview transcripts to support recruiter decision-making.",
+      "tags": [
+        "Python",
+        "AI Evaluation",
+        "Prompt Engineering",
+        "Recruiting Operations"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python Development",
+      "description": "Building automation scripts, Streamlit apps, recruiting tools, data workflows, dashboards, and internal business systems."
+    },
+    {
+      "title": "Recruiting Operations",
+      "description": "Talent acquisition strategy, full-cycle recruiting, workforce planning, pipeline management, recruitment analytics, and KPI tracking."
+    },
+    {
+      "title": "AI Workflow Tools",
+      "description": "AI screening, interview evaluation, resume parsing, prompt systems, candidate scoring, and AI-assisted recruiting workflows."
+    },
+    {
+      "title": "API Integrations",
+      "description": "Connecting Airtable, RecruitCRM, Supabase, ATS platforms, CRMs, Google tools, and external REST APIs."
+    },
+    {
+      "title": "ATS & HR Systems",
+      "description": "Greenhouse, Rippling, Workable, Loxo, Deel, Manatal, Crelate, ATS implementation, and scalable hiring workflows."
+    },
+    {
+      "title": "Automation & Process Design",
+      "description": "Zapier, GoHighLevel, Google Apps Script, process optimization, workflow design, SOPs, and scalable recruiting systems."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Head of Recruitment Operations",
+      "company": "Snap Dental Labs LLC",
+      "type": "Full-Time",
+      "dates": "Dec 2024 - Jan 2026",
+      "description": [
+        "Built HR, recruiting, and operations functions from scratch supporting a 20+ employee organization.",
+        "Filled 50+ critical roles with an average time-to-fill of 1-3 weeks.",
+        "Reduced time-to-fill by 60% through process optimization and ATS implementation.",
+        "Implemented ATS systems and scalable recruiting operations.",
+        "Partnered with leadership on workforce planning and hiring strategy."
+      ]
+    },
+    {
+      "role": "Executive Assistant",
+      "company": "Phillip Bugert",
+      "type": "Part-Time, 20 hrs/week",
+      "dates": "Oct 2024 - Mar 2026",
+      "description": [
+        "Built scalable hiring systems and talent pipelines from scratch.",
+        "Implemented ATS workflows to streamline recruitment operations.",
+        "Developed pre-vetted talent pipelines to accelerate hiring.",
+        "Improved recruiting efficiency through process optimization."
+      ]
+    },
+    {
+      "role": "Corporate Recruiter / Sourcing Manager",
+      "company": "Theoria Medical",
+      "type": "Full-Time",
+      "dates": "Aug 2022 - Oct 2024",
+      "description": [
+        "Managed 60+ active requisitions across multiple departments.",
+        "Improved quality of hire by 45% through structured hiring processes.",
+        "Leveraged ATS reporting and recruiting analytics to improve hiring decisions and recruiter performance.",
+        "Developed KPI frameworks to improve recruiter performance and accountability.",
+        "Standardized sourcing and interviewing processes across teams."
+      ]
+    },
+    {
+      "role": "Executive Assistant, Operations",
+      "company": "Benjamin Smith Real Estate",
+      "type": "Full-Time",
+      "dates": "Nov 2018 - Mar 2022",
+      "description": [
+        "Managed executive operations supporting business efficiency and leadership productivity.",
+        "Delivered reporting and market research insights.",
+        "Generated 100+ qualified candidates monthly to support hiring initiatives.",
+        "Optimized Airbnb and rental operations.",
+        "Improved documentation and payment processes."
+      ]
+    },
+    {
+      "role": "Operations Manager",
+      "company": "Ambox Events",
+      "type": "Full-Time",
+      "dates": "Mar 2016 - Mar 2018",
+      "description": [
+        "Led process improvement initiatives that increased operational efficiency.",
+        "Built SOPs, workflows, and team structures to support scaling.",
+        "Managed cross-functional teams and daily operations.",
+        "Implemented KPI reporting systems to improve accountability."
+      ]
+    },
+    {
+      "role": "HR Recruitment Officer",
+      "company": "Ambox Events",
+      "type": "Full-Time",
+      "dates": "Mar 2014 - Mar 2016",
+      "description": [
+        "Managed recruitment and onboarding of event staff.",
+        "Conducted interviews and maintained employee records.",
+        "Coordinated workforce scheduling with event managers.",
+        "Streamlined hiring and onboarding processes.",
+        "Improved staffing reliability and operational readiness."
+      ]
+    }
+  ],
+  "tools": {
+    "ATS / HRIS": [
+      "Greenhouse",
+      "Rippling",
+      "Workable",
+      "Loxo",
+      "Deel",
+      "Manatal",
+      "Crelate"
+    ],
+    "CRM / Project Management": [
+      "HubSpot",
+      "Monday.com",
+      "ClickUp",
+      "Airtable"
+    ],
+    "Automation": [
+      "Zapier",
+      "GoHighLevel",
+      "Google Apps Script"
+    ],
+    "AI Tools": [
+      "OpenAI",
+      "Google Gemini",
+      "Juicebox"
+    ],
+    "Sourcing": [
+      "LinkedIn Recruiter",
+      "Indeed",
+      "ZipRecruiter"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Psychology",
+      "school": "University of Mindanao"
+    }
+  ]
+}
